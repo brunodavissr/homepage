@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    padding: 1%;
+    display:flex;
+}
+
+main {
+    text-align:center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.atalhos {
+    color: white;
+    padding-left: 9%;
+    font-weight: 600;
+}
+
+.atalhos:hover{
+    text-decoration: none;
+    color: gray;
+}
+
+.titulo{
+    font-weight: 600;
+}
+
+.paragrafo {
+    padding-top: 2%;
+    font-size: 20px;
+}
+
+.container {
+    padding-top: 4%;
+    padding-bottom: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
